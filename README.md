@@ -19,7 +19,7 @@ This project is a simple Python application that allows users to inject data fro
 - The data types in the SQL table will be set to `VARCHAR(MAX)` for all columns.
 - The SQL Server should be accessible and allow trusted connections.
 
-## Executable Version
+## Download Executable Version
 
 If you prefer to use the pre-built executable version of this project, you can download it from the following link:
 https://drive.google.com/drive/folders/1cfuVnlZk5DJdHmfmVNDs92amWDXQdB3v?usp=sharing
