@@ -1,4 +1,4 @@
-# Data Injection
+# Excel to SQL Server Table Injector
 
 This project is a simple Python application that allows users to inject data from an Excel file into a SQL Server database. It utilizes the `openpyxl` library to read data from the Excel file and the `pyodbc` library to establish a connection with the SQL Server database and perform data injection.
 
